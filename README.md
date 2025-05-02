@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Giovanni — aka **GioMint**
 
 💻 **Senior Backend Developer** | ⚙️ Automation Architect | 🎯 Passive Systems Builder  
-I design tools that run themselves — so I don’t have to.
+I build autonomous systems so I can focus on what truly matters.
 
 ---
 
@@ -10,7 +10,7 @@ I design tools that run themselves — so I don’t have to.
 - 🔧 **13+ years** building scalable backend systems, APIs and automated testing pipelines.
 - 🌐 Expert in **Java, Spring Boot, Python, OpenSearch, Docker, and AWS**.
 - 🧪 Passionate about **automated testing**, CI/CD and AI-powered workflows.
-- 🚫 Zero-client philosophy: I build tools that sell themselves — no human support required.
+- 🚫 I focus on building tools that provide value autonomously — no support or manual work required.
 
 ---
 
@@ -54,7 +54,7 @@ I'm currently focused on building **AI-first backend tools** designed to:
 
 ## 📫 Let’s Connect
 
-Right now, I don’t take freelance work — but you can follow my builds here.
+🔒 Not offering freelance work at the moment — just building, shipping, and automating.
 
 - 🔗 GitHub: [GioMint](https://github.com/GioMint)
 - ✉️ Email: `contact.giomint[at]proton.me` (if activated later)
