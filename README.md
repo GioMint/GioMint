@@ -57,4 +57,4 @@ I'm currently focused on building **AI-first backend tools** designed to:
 🔒 Not offering freelance work at the moment — just building, shipping, and automating.
 
 - 🔗 GitHub: [GioMint](https://github.com/GioMint)
-- ✉️ Email: `contact.giomint[at]proton.me` (if activated later)
+- ✉️ Email: `contact.giomint[at]proton.me` 
